@@ -1,5 +1,5 @@
 {
-  "name": "localstorage-memory",
+  "name": "window-lsm",
   "description": "localStorage-compatible API, but only stored in memory",
   "main": "lib/localstorage-memory.js",
   "scripts": {
